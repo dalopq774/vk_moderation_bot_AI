@@ -1,0 +1,6 @@
+vk_api
+python-dotenv
+detoxify
+torch
+sentencepiece
+transformers
